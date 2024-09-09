@@ -82,9 +82,9 @@ const OurProjects = () => {
                         </div>
                         <div className="space-y-3 ">
 
-                            <h1 className="text-xl font-extrabold">Mindful Futures: Mental Health Awareness Campaign</h1>
-                            <p className="text-[#13131880]"><span className='font-bold'>Objective:</span> Promote mental health awareness among youth and provide tools for managing stress and anxiety.</p>
-                            <p className="text-[#13131880]"><span className='font-bold'>Activities:</span>  Workshops, seminars, online resources, and peer support groups.</p>
+                            <h1 className="text-xl font-extrabold">Youth Matters: Islamic Guidance for Young Muslims</h1>
+                            <p className="text-[#13131880]"><span className='font-bold'>Objective:</span> To support and empower young Muslims to navigate modern challenges while staying true to their faith.</p>
+                            <p className="text-[#13131880]"><span className='font-bold'>Activities:</span>  Youth forums, mentorship programs, Q&A sessions with scholars, and interactive workshops.</p>
 
 
                         </div>

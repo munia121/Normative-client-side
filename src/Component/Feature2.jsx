@@ -1,7 +1,7 @@
 import image from '../assets/imagw4.jpg'
 const Feature2 = () => {
     return (
-        <div className='mt-20'>
+        <div className='mt-20 container mx-auto mb-28'>
             <div className=" bg-fixed bg-no-repeat bg-cover text-white pt-10 my-20" style={{
                     backgroundImage: `url(${image})`,
                 }}>

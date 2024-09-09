@@ -20,7 +20,7 @@ const Reviews = () => {
     console.log(reviews);
 
     return (
-        <div className='lg:mt-28 container mx-auto'>
+        <div className='lg:mt-28 mb-28 container mx-auto'>
             <div>
                 <div className="md:w-4/12 my-8 mx-auto text-center">
                     <p className="text-yellow-600 mb-2">--- What Our Client Say ---</p>

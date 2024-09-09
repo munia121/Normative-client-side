@@ -3,7 +3,7 @@ import img from '../assets/image5.jpg'
 const Feature1 = () => {
     return (
         <div>
-            <div className='text-center mt-20 chef bg-no-repeat bg-cover rounded-lg w-full container mx-auto py-32' style={{
+            <div className='text-center mb-28 mt-20 chef bg-no-repeat bg-cover rounded-lg w-full container mx-auto py-32' style={{
                     backgroundImage: `url(${img}) `,
                 }}>
                 <div className='bg-white bg-opacity-30 md:w-[1096px] space-y-4 mx-auto py-20 px-5'>

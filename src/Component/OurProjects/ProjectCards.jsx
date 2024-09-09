@@ -12,8 +12,8 @@ const ProjectCards = () => {
                     <h2 className="text-3xl uppercase border-y-4 py-4">Your Projects</h2>
                 </div>
             </div>
-            <div className='container mx-auto'>
-                <div className='grid gap-y-10 lg:grid-cols-3 gap-10 grid-cols-1 mt-28  container mx-auto'>
+            <div className=' mx-auto'>
+                <div className='grid gap-y-10 lg:grid-cols-3 gap-10 grid-cols-1 mt-28 md:w-[1200px]  mx-auto'>
                     <div className=' rounded-lg shadow-2xl border p-5'>
                         <img className='rounded-lg h-[400px] w-[600px] ' src={photo2} alt="" />
                         <div className='space-y-4 mt-3'>
